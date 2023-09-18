@@ -13,5 +13,5 @@ return {
 		init = function()
 			require('bufferline').setup()
 		end,
-	}
+	},
 }

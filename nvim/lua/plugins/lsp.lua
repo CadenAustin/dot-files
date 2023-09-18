@@ -22,20 +22,6 @@ return {
 			end)
 
 			lsp.ensure_installed({
-				'ansiblels',
-				'arduino_language_server',
-				'asm_lsp',
-				'bicep',
-				'clangd',
-				'cmake',
-				'cssls',
-				'tsserver',
-				'powershell_es',
-				'pyright',
-				'rust_analyzer',
-				'taplo',
-				'lemminx',
-				'yamlls',
 			})
 
 			lsp.setup()
